@@ -25,5 +25,5 @@ Log This | ![Log This Badge](images/logthis.png) | Have Log4j2 version 2.0-2.17 
 
 ###### Author's Note
 ###### This is a joke! PRs welcome
-###### Inspired by [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements)
+###### Inspired by [danieleverest/github-profile-achievements](https://github.com/danieleverest/github-profile-achievements)
 ###### Badges hacked together from the fine art at [OpenMoji](https://openmoji.org/)
